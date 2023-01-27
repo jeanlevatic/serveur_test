@@ -1,13 +1,11 @@
 {
-      "firstname": "User4",
-      "lastname": "User4",
-      "email": "test4@test4.com",
-      "phoneNumber": "67890",
-      "personalAddress": "DFGHJKL",
-      "password": "admin",
-      "spaces": [
-      ],
-      "messages": [],
-      "favorites": []
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
     }
-    
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
