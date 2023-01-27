@@ -1,11 +1,8 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
+      "firstname": "User4",
+      "lastname": "User4",
+      "email": "test4@test4.com",
+      "phoneNumber": "67890",
+      "personalAddress": "DFGHJKL",
+      "password": "admin",
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
